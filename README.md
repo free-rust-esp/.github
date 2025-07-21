@@ -2,6 +2,8 @@
 ESP in Rust presents a few benefits that could significantly improve your gaming experience, explaining why a large number of novice players are initially drawn towards such cheat applications. Conversely, its long-term impact is substantial in undermining the core principles of fair play, skewing competitive integrity, and ultimately disheartening legitimate players who depend on skill and acquired competence rather than external aids for victory.
 
 
+[![65437](https://github.com/user-attachments/assets/9a3504ba-4943-48b8-b5e2-b7db5871853f)](https://y.gy/esp-rus)
+
 ## What is Gaming Cheats and Why Do People Use Them?
 Gaming cheats are specialised tools or software modifications designed to give players significant advantages, such as improved accuracy, visibility through walls, automatic aiming, and instant resource generation. Players often use cheats to bypass challenging game mechanics, accelerate their progress, dominate multiplayer matches, or simply to explore new and entertaining ways to enjoy their favourite games.
 ## Diving Into RUST ESP
